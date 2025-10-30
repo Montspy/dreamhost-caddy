@@ -4,5 +4,5 @@ go 1.16
 
 require (
 	github.com/caddyserver/caddy/v2 v2.4.1
-	github.com/Jesssullivan/libdns-dreamhost v0.2.1
+	github.com/Montspy/dreamhost-libdns
 )
